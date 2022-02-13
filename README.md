@@ -12,3 +12,13 @@ Notes:
 2. Start Eclipse:
     1. Import project.
     2. Right-click on `simple_drawing.AppStarter.java` and select "Run As / Java application".
+
+## Sample output
+
+### Initial
+
+![start.png](images/start.png)
+
+### After a few minutes
+
+![later.png](images/later.png)
